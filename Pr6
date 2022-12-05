@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 21 19:25:15 2022
-
-@author: Saul_
-"""
 
 from queue import PriorityQueue
 v = 14
